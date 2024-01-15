@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "h22S+nOgl7Z5gLjCuAC2TiLN0CaS+TVHsUMWkoib4pvFCdbELkt76zMmM8CG97LnIuFWQ1YyeURWfxCSpZwpbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hdabell\\RiderProjects\\SpeedyAir\\SpeedyAir\\SpeedyAir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hdabell\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\castle.windsor\\6.0.0\\castle.windsor.6.0.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\hdabell\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
